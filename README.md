@@ -1,6 +1,6 @@
 # How to use it?
 
-![alt text](https://i.imgur.com/twJALjy.jpg)
+![alt text](https://media.giphy.com/media/26Ff5zOO60eOubufu/giphy.gif)
 
 -----------------------------------------------------------------------------------------------------------
 Sample												-------------------------------------------------------
