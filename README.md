@@ -2,8 +2,7 @@
 
 ![alt text](https://media.giphy.com/media/26Ff5zOO60eOubufu/giphy.gif)
 
------------------------------------------------------------------------------------------------------------
-### Sample												
+# Sample												
 ```
 	final BookAdapter adapter = new BookAdapter(initBooks());
         DragSortRecycler dragSortRecycler = new DragSortRecycler();
