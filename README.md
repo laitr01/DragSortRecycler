@@ -3,10 +3,9 @@
 ![alt text](https://media.giphy.com/media/26Ff5zOO60eOubufu/giphy.gif)
 
 -----------------------------------------------------------------------------------------------------------
-Sample												-------------------------------------------------------
------------------------------------------------------------------------------------------------------------
-
-		final BookAdapter adapter = new BookAdapter(initBooks());
+### Sample												
+```
+	final BookAdapter adapter = new BookAdapter(initBooks());
         DragSortRecycler dragSortRecycler = new DragSortRecycler();
         dragSortRecycler.setViewHandleId(R.id.reopen);
         dragSortRecycler.setItemMovedListener(new DragSortRecycler.OnItemMovedListener() {
@@ -27,5 +26,4 @@ Sample												-------------------------------------------------------
         viewList.addOnItemTouchListener(dragSortRecycler);
         viewList.addOnScrollListener(dragSortRecycler.getScrollListener());
         viewList.setAdapter(adapter);
-		
------------------------------------------------------------------------------------------------------------
+```		
